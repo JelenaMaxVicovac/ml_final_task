@@ -21,7 +21,7 @@ The model was trained on a cleaned product dataset containing product titles and
 
 - Feature Engineering
 
-** In addition to the raw product title, several features were created: **
+**In addition to the raw product title, several features were created:**
 
 TF-IDF vectors from:
 
